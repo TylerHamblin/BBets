@@ -76,6 +76,9 @@ favstats(teachers)
 ```
 
 
+We were unable to find a stable mean for the fair odds test using 40 teachers so we increased budget and ran it with 1000 teachers. The mean is close enough to stable but differences will still result. The odds would need to be payed out at 4.39. 
+
+
 # What size of class makes the 2:1 bet fair?  Use manipulation of number of Students to tune Brownlows earnings to zero.
 
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->

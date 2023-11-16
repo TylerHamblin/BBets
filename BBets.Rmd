@@ -58,6 +58,7 @@ print(profit$mean+2*profit$sd)
 ```
 
 
+Mr. Brownlow would be making the average profit$mean with the standard deviation of profit$sd. The 95% confidence level test we ran ranges from 225.2167 to 336.4333. 
 
 # What are the fair odds? Use manipulation of odds in the function to tune Brownlows earnings to zero. 
 

@@ -114,7 +114,7 @@ favstats(teachers)
 
 ```
 
-
+### Although there isn't an exact way to make a 2:1 fair bet with Browlow, by changing the variable of the number of students, the closest we could get was 28. It will not be consistently zero but with the limitation of working with whole numbers it is the closest we could get. 
 
 
 

@@ -65,7 +65,7 @@ cat("Mr Brownlow is on average making $",central$mean," over the course of the e
 
 cat("95% Conficence Interval: Low:$",central$mean - 2*central$sd,"- High $", central$mean + 2*central$sd)
 ```
-### Mr. Brownlow would be making the average of profit$mean. The 95% confidence level test we ran has an ever changing range that typically spans about $100. The average earnings Browlow makes are ran by the second code chunk with the upper and lower possibilities.  
+### Mr. Brownlow would be making the average of profit$mean (roughly $280). The 95% confidence level test we ran has an ever changing range that typically spans about $100. The average earnings Browlow makes are ran by the second code chunk with the upper and lower possibilities.  
 
 
 
@@ -122,4 +122,4 @@ favstats(teachers)
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
-### This write up allowed us to practice the manipulation of odds using trial and error to arrive at a desired result. By adjusting the number of teachers from 40 to 1000 we were able to demonstrate how a mean can stablilize when sample size is increased. According to the data and graphs, Brownlow overtime will gradually make a profit with the original arrangement, somwhere in the margin of 200 - 350 dollars. A class size of 28 typically leads to a near zero profit margin and a payout of 4.39 to 1 in a 40 person class is fair for both sides. 
+### This write up allowed us to practice the manipulation of odds using trial and error to arrive at a desired result. By adjusting the number of teachers from 40 to 1000 we were able to demonstrate how a mean can stablilize when sample size is increased. According to the data and graphs, Brownlow overtime will gradually make a profit with the original arrangement, somwhere in the margin of 280 dollars. A class size of 28 typically leads to a near zero profit margin and a payout of 4.39 to 1 in a 40 person class is fair for both sides. 
